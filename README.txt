@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Datos de Juegos y Usuarios
+## Proyecto de Análisis de Datos de Juegos y Usuarios
 
 Este proyecto de análisis de datos se centra en el estudio de la interacción entre usuarios y juegos en la plataforma Steam.
 El proyecto se compone de tres carpetas principales y cinco archivos de Python, cada uno desempeñando un papel crucial en el procesamiento
